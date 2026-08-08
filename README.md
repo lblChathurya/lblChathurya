@@ -1,9 +1,6 @@
 <div align="center">
 
-```text
-$ whoami
-L.B. Layangi Chathurya
-```
+<h1>L.B.Layangi Chathurya</h1>
 <h1>Computer Science Undergraduate</h1>
 <p>Building practical software and exploring the intersection of modern web development and AI.</p>
 
